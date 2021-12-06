@@ -1,0 +1,356 @@
+Default Report
+Last Modified: 2021-12-05 21:50:03 MST
+
+
+"Q1 - Dear Customer:
+
+
+
+Thank you for giving us the opportunity to better serve you.  Please help us  by taking a few minutes to tell us about the service that you have received so far.  We appreciate your business and want to make sure we meet your expectations.  Attached, you will find a coupon good for ...... We hope that you will accept this as a token of our good will.
+
+
+
+Sincerely,
+
+
+Kaitlyn Zhang
+
+
+Manager"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"Dear Customer:
+
+
+
+Thank you for giving us the opportunity to better serve you.  Please help us  by taking a few minutes to tell us about the service that you have received so far.  We appreciate your business and want to make sure we meet your expectations.  Attached, you will find a coupon good for ...... We hope that you will accept this as a token of our good will.
+
+
+
+Sincerely,
+
+
+Kaitlyn Zhang
+
+
+Manager",1.00,1.00,1.00,0.00,0.00,6
+
+#,Answer,%,Count
+1,Agree,100.00%,6
+2,Disagree,0.00%,0
+,Total,100%,6
+
+"Q4 - Would you be interested in software that allows you to have control over profanity, nudity, and violence in movies?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"Would you be interested in software that allows you to have control over profanity, nudity, and violence in movies?",1.00,2.00,1.33,0.47,0.22,6
+
+#,Answer,%,Count
+1,Yes,66.67%,4
+2,No,33.33%,2
+,Total,100%,6
+
+Q7 - Do you feel comfortable purchasing software over the internet?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Do you feel comfortable purchasing software over the internet?,0.00,1.00,0.83,0.37,0.14,6
+
+#,Answer,%,Count
+0,Yes,16.67%,1
+1,No,83.33%,5
+,Total,100%,6
+
+Q2 - Which of the following do you agree with?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,I generally rent movies.,0.00,3.00,1.00,1.00,1.00,6
+2,"I usually enjoy rated R films more than I enjoy PG -13, PG, or G movies.",1.00,3.00,1.50,0.76,0.58,6
+3,Students/kids viewing too many murders and crimes in movies has increased the number of crimes amongst youth.,1.00,3.00,1.83,0.69,0.47,6
+4,Movies without violence are less appealing to me.,0.00,4.00,1.50,1.26,1.58,6
+5,Profanity is not needed in films.,1.00,3.00,1.67,0.75,0.56,6
+6,Sexual content in movies makes them more entertaining.,1.00,3.00,2.00,0.82,0.67,6
+7,Movies are a direct reflection of the values in today's American Society.,1.00,4.00,2.00,1.00,1.00,6
+8,I find nudity to be acceptable in movies.,2.00,3.00,2.67,0.47,0.22,6
+9,"I would be interested in software that gives me the option to control the sexual content, profanity, and violence in DVD movies.",0.00,3.00,1.33,0.94,0.89,6
+10,"Based upon the premise that the software existed to give me more control and added features for movies on DVD format, I would purchase a DVD player for this purpose.",1.00,3.00,1.83,0.69,0.47,6
+11,"As a parent, I would like more control over what my children watch in movies (if not a parent, answer as if you were one).",2.00,4.00,3.00,0.58,0.33,6
+12,I generally buy movies.,1.00,1.00,1.00,0.00,0.00,6
+
+#,Question,Strongly Disagree,,Disagree,,Neutral,,Agree,,Strongly Agree,,Total
+1,I generally rent movies.,33.33%,2,50.00%,3,0.00%,0,16.67%,1,0.00%,0,6
+2,"I usually enjoy rated R films more than I enjoy PG -13, PG, or G movies.",0.00%,0,66.67%,4,16.67%,1,16.67%,1,0.00%,0,6
+3,Students/kids viewing too many murders and crimes in movies has increased the number of crimes amongst youth.,0.00%,0,33.33%,2,50.00%,3,16.67%,1,0.00%,0,6
+4,Movies without violence are less appealing to me.,16.67%,1,50.00%,3,16.67%,1,0.00%,0,16.67%,1,6
+5,Profanity is not needed in films.,0.00%,0,50.00%,3,33.33%,2,16.67%,1,0.00%,0,6
+6,Sexual content in movies makes them more entertaining.,0.00%,0,33.33%,2,33.33%,2,33.33%,2,0.00%,0,6
+7,Movies are a direct reflection of the values in today's American Society.,0.00%,0,33.33%,2,50.00%,3,0.00%,0,16.67%,1,6
+8,I find nudity to be acceptable in movies.,0.00%,0,0.00%,0,33.33%,2,66.67%,4,0.00%,0,6
+9,"I would be interested in software that gives me the option to control the sexual content, profanity, and violence in DVD movies.",16.67%,1,50.00%,3,16.67%,1,16.67%,1,0.00%,0,6
+10,"Based upon the premise that the software existed to give me more control and added features for movies on DVD format, I would purchase a DVD player for this purpose.",0.00%,0,33.33%,2,50.00%,3,16.67%,1,0.00%,0,6
+11,"As a parent, I would like more control over what my children watch in movies (if not a parent, answer as if you were one).",0.00%,0,0.00%,0,16.67%,1,66.67%,4,16.67%,1,6
+12,I generally buy movies.,0.00%,0,100.00%,6,0.00%,0,0.00%,0,0.00%,0,6
+
+Q3 - When would you purchase a DVD player if you don't already own one?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,When would you purchase a DVD player if you don't already own one?,1.00,4.00,2.33,0.94,0.89,6
+
+#,Answer,%,Count
+1,In the next 6 months,16.67%,1
+2,1 year,50.00%,3
+3,2 years,16.67%,1
+4,Already own a DVD player,16.67%,1
+5,Never,0.00%,0
+,Total,100%,6
+
+"Q5 - If this software existed, how much would you expect it to cost?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"If this software existed, how much would you expect it to cost?",1.00,4.00,2.83,1.07,1.14,6
+
+#,Answer,%,Count
+1,$50-$99,16.67%,1
+2,$100-$149,16.67%,1
+3,$150-199,33.33%,2
+4,$200-$249,33.33%,2
+5,$250+,0.00%,0
+,Total,100%,6
+
+Q6 - How much would you expect a software tool to cost that allowed you to control and manipulate video and sound content in movies?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,How much would you expect a software tool to cost that allowed you to control and manipulate video and sound content in movies?,2.00,5.00,3.00,1.15,1.33,6
+
+#,Answer,%,Count
+1,$50-$99,0.00%,0
+2,$100-$149,50.00%,3
+3,$150-$199,16.67%,1
+4,$200-$249,16.67%,1
+5,$250+,16.67%,1
+,Total,100%,6
+
+Q8 - Do you feel comforable downloading software over the internet?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Do you feel comforable downloading software over the internet?,0.00,1.00,0.50,0.50,0.25,6
+
+#,Answer,%,Count
+0,Yes,50.00%,3
+1,No,50.00%,3
+,Total,100%,6
+
+"Q9 - If you purchase software from the internet, which do you prefer?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"If you purchase software from the internet, which do you prefer?",0.00,1.00,0.67,0.47,0.22,6
+
+#,Answer,%,Count
+0,To receive a hard copy of the software in CD format,33.33%,2
+1,The ability to burn your own CD and print your own manual,66.67%,4
+2,I prefer to only keep a soft-copy downloaded on my computer,0.00%,0
+,Total,100%,6
+
+Q10 - Where would you rather purchase software from?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Where would you rather purchase software from?,0.00,1.00,0.17,0.37,0.14,6
+
+#,Answer,%,Count
+0,A store,83.33%,5
+1,The internet,16.67%,1
+2,No preference,0.00%,0
+,Total,100%,6
+
+Q11 - What type of DVD player do you own?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What type of DVD player do you own? - Selected Choice,1.00,4.00,2.17,1.07,1.14,6
+
+#,Answer,%,Count
+1,PC DVD-ROM,33.33%,2
+2,Macintosh DVD-ROM,33.33%,2
+3,Sony PlayStation 2/Microsoft X-Box,16.67%,1
+4,Console Top DVD player,16.67%,1
+5,None,0.00%,0
+6,Other,0.00%,0
+,Total,100%,6
+
+Q11_6_TEXT - Other
+Other - Text
+
+Q12 - Do you mainly purchase or rent movies you view?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Do you mainly purchase or rent movies you view?,0.00,1.00,0.33,0.47,0.22,6
+
+#,Answer,%,Count
+0,Purchase,66.67%,4
+1,Rent,33.33%,2
+,Total,100%,6
+
+Q13 - How much to you spend renting and/or buying movies per month?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,How much to you spend renting and/or buying movies per month?,0.00,3.00,1.33,0.94,0.89,6
+
+#,Answer,%,Count
+0,$0-$19,16.67%,1
+1,$20-$29,50.00%,3
+2,$30-$39,16.67%,1
+3,$40+,16.67%,1
+,Total,100%,6
+
+Q14 - Which state do you live in?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Which state do you live in?,3.00,42.00,17.83,12.29,151.14,6
+
+#,Answer,%,Count
+0,Alabama,0.00%,0
+1,Alaska,0.00%,0
+2,Arizona,0.00%,0
+3,Arkansas,16.67%,1
+4,California,0.00%,0
+5,Colorado,0.00%,0
+6,Connecticut,0.00%,0
+7,Delaware,0.00%,0
+8,Florida,0.00%,0
+9,Georgia,0.00%,0
+10,Hawaii,16.67%,1
+11,Idaho,0.00%,0
+12,Illinois,0.00%,0
+13,Indiana,16.67%,1
+14,Iowa,0.00%,0
+15,Kansas,0.00%,0
+16,Kentucky,0.00%,0
+17,Louisiana,16.67%,1
+18,Maine,0.00%,0
+19,Maryland,0.00%,0
+20,Massachusetts,0.00%,0
+21,Michigan,0.00%,0
+22,Minnesota,16.67%,1
+23,Mississippi,0.00%,0
+24,Missouri,0.00%,0
+25,Montana,0.00%,0
+26,Nebraska,0.00%,0
+27,Nevada,0.00%,0
+28,New Hampshire,0.00%,0
+29,New Jersey,0.00%,0
+30,New Mexico,0.00%,0
+31,New York,0.00%,0
+32,North Carolina,0.00%,0
+33,North Dakota,0.00%,0
+34,Ohio,0.00%,0
+35,Oklahoma,0.00%,0
+36,Oregon,0.00%,0
+37,Pennsylvania,0.00%,0
+38,Rhode Island,0.00%,0
+39,South Carolina,0.00%,0
+40,South Dakota,0.00%,0
+41,Tennessee,0.00%,0
+42,Texas,16.67%,1
+43,Utah,0.00%,0
+44,Vermont,0.00%,0
+45,Virginia,0.00%,0
+46,Washington,0.00%,0
+47,West Virginia,0.00%,0
+48,Wisconsin,0.00%,0
+49,Wyoming,0.00%,0
+,Total,100%,6
+
+Q15 - What is your age?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your age?,3.00,22.00,13.50,7.27,52.92,6
+
+#,Answer,%,Count
+1,18,0.00%,0
+2,19,0.00%,0
+3,20,16.67%,1
+4,21,0.00%,0
+5,22,16.67%,1
+6,23,0.00%,0
+7,24,0.00%,0
+8,25,0.00%,0
+9,26,0.00%,0
+10,27,0.00%,0
+11,28,0.00%,0
+12,29,0.00%,0
+13,30,16.67%,1
+14,31,0.00%,0
+15,32,0.00%,0
+16,33,0.00%,0
+17,34,0.00%,0
+18,35,16.67%,1
+19,36,0.00%,0
+20,37,16.67%,1
+21,38,0.00%,0
+22,39,16.67%,1
+23,40,0.00%,0
+24,41,0.00%,0
+25,42,0.00%,0
+26,43,0.00%,0
+27,44,0.00%,0
+28,45,0.00%,0
+29,46,0.00%,0
+30,47,0.00%,0
+31,48,0.00%,0
+32,49,0.00%,0
+33,50,0.00%,0
+34,51,0.00%,0
+35,52,0.00%,0
+36,53,0.00%,0
+37,54,0.00%,0
+38,55,0.00%,0
+39,56,0.00%,0
+40,57,0.00%,0
+41,58,0.00%,0
+42,59,0.00%,0
+43,60,0.00%,0
+44,61,0.00%,0
+45,62,0.00%,0
+46,63,0.00%,0
+47,64,0.00%,0
+48,65,0.00%,0
+49,66,0.00%,0
+50,67,0.00%,0
+51,68,0.00%,0
+52,69,0.00%,0
+53,70,0.00%,0
+54,71,0.00%,0
+55,72,0.00%,0
+56,73,0.00%,0
+57,74,0.00%,0
+58,75,0.00%,0
+59,76,0.00%,0
+60,77,0.00%,0
+61,78,0.00%,0
+62,79,0.00%,0
+63,80,0.00%,0
+64,81,0.00%,0
+65,82,0.00%,0
+66,83,0.00%,0
+67,84,0.00%,0
+68,85,0.00%,0
+69,86,0.00%,0
+70,87,0.00%,0
+71,88,0.00%,0
+72,89,0.00%,0
+73,90 or older,0.00%,0
+,Total,100%,6
+
+Q16 - What is your gender?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your gender?,0.00,1.00,0.50,0.50,0.25,6
+
+#,Answer,%,Count
+0,Male,50.00%,3
+1,Female,50.00%,3
+,Total,100%,6
+
+Q17 - What is your marital status?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your marital status?,0.00,3.00,1.50,0.96,0.92,6
+
+#,Answer,%,Count
+0,Married with 1 or more kids,16.67%,1
+1,Married without kids,33.33%,2
+2,Single with 1 or more kids,33.33%,2
+3,Single without kids,16.67%,1
+,Total,100%,6
+
+Q18 - What is your approximate annual family or single household income?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your approximate annual family or single household income?,0.00,3.00,1.83,1.07,1.14,6
+
+#,Answer,%,Count
+0,"$0-$29,999",16.67%,1
+1,"$30,000-$59,999",16.67%,1
+2,"$60,000-$89,999",33.33%,2
+3,"$90,000+",33.33%,2
+,Total,100%,6
